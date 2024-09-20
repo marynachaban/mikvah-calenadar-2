@@ -2,7 +2,7 @@
   "name": "mikvah-calendar",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marynach48.github.io/mikvah-calendar",
+  "homepage": "https://marynachaban.github.io/mikvah-calendar-2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
