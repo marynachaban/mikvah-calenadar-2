@@ -20,7 +20,7 @@ export const ChangeConfigForm: React.FC<PropsType> = ({ localConfig }) => {
   const submit = async () => {
     axios({
       method: 'post',
-      url: 'http://localhost:3001/config',
+      url: 'https://mikvah-back-bc1cfa0e6730.herokuapp.com/config',
       data: config
     });
   }
