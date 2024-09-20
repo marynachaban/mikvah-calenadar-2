@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mikvah-calendar-2/static/css/main.2d7f7de5.css",
+    "main.js": "/mikvah-calendar-2/static/js/main.7908f791.js",
+    "index.html": "/mikvah-calendar-2/index.html",
+    "static/media/logo.svg": "/mikvah-calendar-2/static/media/logo.5dda0b65f6ed222d0f3a55bba375dade.svg",
+    "main.2d7f7de5.css.map": "/mikvah-calendar-2/static/css/main.2d7f7de5.css.map",
+    "main.7908f791.js.map": "/mikvah-calendar-2/static/js/main.7908f791.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d7f7de5.css",
+    "static/js/main.7908f791.js"
+  ]
+}
